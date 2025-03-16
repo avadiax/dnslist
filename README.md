@@ -1,2 +1,3 @@
 # dnslist
-Custom DNS list
+
+This is a custom DNS list used for various adblocking software.
