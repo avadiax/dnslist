@@ -1,0 +1,12 @@
+! Title: Avadiax's personal ABP blocklist
+! Description: Custom block list
+! Source: 
+! Homepage: 
+! License: None
+! Expires: Updated regularly
+! Version: 2025.03.17.1
+! Syntax: AdBlock
+!
+||adj.st^
+||binance.com^
+||binance.us^
