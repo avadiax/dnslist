@@ -1,0 +1,10 @@
+! Title: Avadiax's personal ABP blocklist
+! Description: Custom allow list
+! Source: 
+! Homepage: 
+! License: None
+! Expires: Updated regularly
+! Version: 2025.03.17.1
+! Syntax: AdBlock
+!
+@@||us-dispd.coolkit.cc^
