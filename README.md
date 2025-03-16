@@ -1,0 +1,2 @@
+# dnslist
+Custom DNS list
